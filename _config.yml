@@ -17,28 +17,28 @@ paginate: 7
 paginate_path: "page:num"
 layout: post
 permalink: /:categories/:title
-excerpt_separator: "[-----]"
+excerpt_separator: "<!--more-->"
 
-url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+url: https://quantekk.github.io # Required: replace this with your domain
+name: 奇怪的知识  # Required: will be displayed on every page's header
+title: 奇怪的知识  # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
-description: "Some short description on your site" # Required
+  - 一本正经、胡说八道
+  - :-)
+description: "quantek的个人记录" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
-  shortname: unifreak # Required if you use disqus. Repalce with your disqus shortname here
+  shortname: quantekk # Required if you use disqus. Repalce with your disqus shortname here
 
 google_analytics:
   id: "" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
-  demo_series:
-    output: true
-  demo_series_2:
-    output: true
+  #生命的实验室:
+  #  output: true
+  #demo_series_2:
+  #  output: true
 
 defaults:
   - scope:

@@ -1,27 +1,15 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
-hi: "HIYA!"
+name: "quantek"
+job: "混吃等死"
+hi: "hello"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
-skills:
-  - name: "Programming"
-    icon-class: "fa fa-terminal"
-    list: ["PHP", "Python", "Shell", "C", "SQL"]
-  - name: "Framework"
-    icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
-  - name: "Tools"
-    icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText"]
+  - "这家伙很懒 ..."
 
-display_name: "YOUR NAME"
+display_name: "quantek"
 contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "quantek@qq.com", link: "mailto: quantek@qq.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "quantek@hi-pda.com", link: "https://www.hi-pda.com/forum/forumdisplay.php?fid=2"}
