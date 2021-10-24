@@ -32,7 +32,7 @@ disqus:
   shortname: quantekk # Required if you use disqus. Repalce with your disqus shortname here
 
 google_analytics:
-  id: "" # Required if you use google analytics. Replace with your tracking id here
+  id: "G-W98K5W1MXK" # Required if you use google analytics. Replace with your tracking id here
 
 collections: # Define post series here
   #生命的实验室:
