@@ -34,7 +34,7 @@ disqus:
 google_analytics:
   id: "G-W98K5W1MXK" # Required if you use google analytics. Replace with your tracking id here
 
-collections: # Define post series here
+#collections: # Define post series here
   #生命的实验室:
   #  output: true
   #demo_series_2:
