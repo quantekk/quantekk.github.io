@@ -28,7 +28,7 @@ shout: # Required: **TWO** lines, will be displayed on page's header.
 description: "quantek的个人记录" # Required
 
 disqus:
-  comments: true # Global toggle on/off disqus comment
+  comments: false # Global toggle on/off disqus comment
   shortname: quantekk # Required if you use disqus. Repalce with your disqus shortname here
 
 google_analytics:
