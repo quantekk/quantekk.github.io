@@ -12,4 +12,4 @@ display_name: "quantek"
 contact:
   - {name: "Email", icon-class: "fa fa-envelope", text: "quantek@qq.com", link: "mailto: quantek@qq.com"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "Hi-PDA:quantek", link: "https://www.hi-pda.com/forum/forumdisplay.php?fid=2"}
+  - {name: "GitHub", icon-class: "fa fa-github-square", text: "Hi-PDA:quantek", link: "https://www.4d4y.com/forum/forumdisplay.php?fid=2"}
