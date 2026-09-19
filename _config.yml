@@ -12,6 +12,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 paginate: 20
 paginate_path: "page:num"
@@ -20,12 +21,18 @@ permalink: /:categories/:title
 excerpt_separator: "<!--more-->"
 
 url: https://quantekk.github.io # Required: replace this with your domain
+baseurl: ""
+lang: zh-CN
 name: 奇怪的知识  # Required: will be displayed on every page's header
-title: 奇怪的知识  # Required: site's default title
+title: 奇怪的知识｜经济、科技与投资观察  # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 一本正经、胡说八道
   - :-)
-description: "quantek的个人记录" # Required
+description: "记录经济、商业、投资、科技、生物医学与社会观察的个人知识站，也提供在线数独游戏与解题教练。" # Required
+author:
+  name: quantek
+  email: quantek@qq.com
+logo: /assets/img/me.png
 
 disqus:
   comments: false # Global toggle on/off disqus comment
